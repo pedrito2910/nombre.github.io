@@ -1,0 +1,13 @@
+.caja-titulo {
+    background-color: #c3def6; /* Color de fondo suave (Aliceblue) */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.titulo {
+    color: #2c3e50; /* Color del texto (azul oscuro) */
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0;
+}
